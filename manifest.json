@@ -1,6 +1,6 @@
 {
    "name": "湖北省图书馆豆瓣插件",
-   "version": "0.1",
+   "version": "1.0",
    "manifest_version": 2,
    "description": "在豆瓣读书页面直接查询湖北省图书馆",
    "content_scripts": [ {
@@ -8,5 +8,5 @@
       "matches": [ "http://book.douban.com/subject/*" ],
       "run_at": "document_end"
    } ],
-   "permissions": [ "tabs", "http://hbtinterlib.library.hb.cn/opac/search*" ]
+   "permissions": [ "tabs", "http://hbtinterlib.library.hb.cn/opac/*" ]
 }
