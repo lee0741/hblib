@@ -6,4 +6,4 @@
 ![](http://ww1.sinaimg.cn/large/61b0a91dgw1e6tcqo3e2fj215o0p044h.jpg)
 
 ### 安装方法：
-「设置」 -> 「扩展程序」 -> 选择「开发者模式」-> 将 **hblib.crx** 文件拖进该页面
+「设置」 -> 「扩展程序」 -> 将 **hblib.crx** 文件拖进该页面
