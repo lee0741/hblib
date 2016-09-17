@@ -5,5 +5,5 @@
 ### 截图：
 ![](http://ww1.sinaimg.cn/large/61b0a91dgw1e6tcqo3e2fj215o0p044h.jpg)
 
-### 安装方法：
-「设置」 -> 「扩展程序」 -> 将 [**hblib.crx**](http://lee0741.github.io/hblib/hblib.crx) 文件拖进该页面
+### 安装：
+[![](https://developer.chrome.com/webstore/images/ChromeWebStore_BadgeWBorder_v2_340x96.png)](https://chrome.google.com/webstore/detail/湖北省图书馆豆瓣插件/bjpklknbndalaepaoeageampocbmjbgd)
