@@ -1,12 +1,16 @@
 {
    "name": "湖北省图书馆豆瓣插件",
-   "version": "1.1",
+   "version": "2.0.0",
    "manifest_version": 2,
    "description": "在豆瓣读书页面显示书籍在湖北省图书馆的索引信息",
-   "homepage_url": "http://lee0741.github.io/hblib",
+   "homepage_url": "http://yancen.org/hblib",
    "content_scripts": [{
-      "js": ["jquery.js", "inject.js"],
-      "matches": ["http://book.douban.com/subject/*"]
+      "js": ["jquery-3.1.0.min.js", "inject.js"],
+      "matches": ["https://book.douban.com/subject/*"]
    }],
+   "background": {
+   	"scripts": ["jquery-3.1.0.min.js", "eventPage.js"],
+   	"persistent": false
+   },
    "permissions": ["http://hbtinterlib.library.hb.cn/opac/*"]
 }
